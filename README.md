@@ -6,3 +6,5 @@ This is a password generator that prompts the user for the length and what types
 
 ### Screenshot
 ![alt test](./screenshot.png)
+
+##[Deployed Link](https://jpugmire.github.io/js-hw-03/)
