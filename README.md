@@ -1,6 +1,6 @@
 # Random Password Generator
-## Homework 03 - Topic: Javascript
-## Author - Joseph Pugmire
+### Homework 03 - Topic: Javascript
+### Author - Joseph Pugmire
 
 ### Screenshot
 ![alt test](./screenshot.png)
