@@ -3,6 +3,6 @@
 ## Author - Joseph Pugmire
 
 ### Screenshot
-![./screenshot.png]
+![alt test](./screenshot.png)
 
 This is a password generator that prompts the user for the length and what types of characters they'd like it to contain.
